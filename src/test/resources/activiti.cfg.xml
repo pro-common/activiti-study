@@ -9,10 +9,10 @@
 		<property name="history" value="full" />
 
 		<!-- email -->
-		<property name="mailServerHost" value="smtp.gmail.com" />
+		<property name="mailServerHost" value="smtp.qq.com" />
 		<property name="mailServerPort" value="465" />
-		<property name="mailServerUsername" value="yanhonglei@gmail.com" />
-		<property name="mailServerPassword" value="1111111" />
+		<property name="mailServerUsername" value="1786702951@qq.com" />
+		<property name="mailServerPassword" value="azeurwzfigaldfcd" />
 
 		<property name="customPostDeployers">
 			<list>
